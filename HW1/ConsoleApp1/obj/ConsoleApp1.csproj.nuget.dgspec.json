@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftServe\\Lesson 1\\HomeWork1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\SoftServe\\AllHW\\HW1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\SoftServe\\Lesson 1\\HomeWork1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\SoftServe\\AllHW\\HW1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftServe\\Lesson 1\\HomeWork1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\SoftServe\\AllHW\\HW1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\SoftServe\\Lesson 1\\HomeWork1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\SoftServe\\AllHW\\HW1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Roman\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftServe\\Lesson 1\\HomeWork1\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\SoftServe\\AllHW\\HW1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
