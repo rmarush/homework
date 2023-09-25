@@ -1,0 +1,14 @@
+D:\SoftServe\Lesson 1\HomeWork1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\SoftServe\Lesson 1\HomeWork1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\SoftServe\Lesson 1\HomeWork1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\SoftServe\Lesson 1\HomeWork1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\SoftServe\Lesson 1\HomeWork1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\SoftServe\Lesson 1\HomeWork1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftServe\Lesson 1\HomeWork1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\SoftServe\Lesson 1\HomeWork1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\SoftServe\Lesson 1\HomeWork1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\SoftServe\Lesson 1\HomeWork1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\SoftServe\Lesson 1\HomeWork1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\SoftServe\Lesson 1\HomeWork1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\SoftServe\Lesson 1\HomeWork1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\SoftServe\Lesson 1\HomeWork1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
