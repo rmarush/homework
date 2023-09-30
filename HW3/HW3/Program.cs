@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            //TaskOne();
-            //TaskTwo();
+            TaskOne();
+            TaskTwo();
             TaskThree();
         }
 
