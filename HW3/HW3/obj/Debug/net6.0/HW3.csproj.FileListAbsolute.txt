@@ -1,0 +1,14 @@
+D:\SoftServe\HW\homework\HW3\HW3\bin\Debug\net6.0\HW3.exe
+D:\SoftServe\HW\homework\HW3\HW3\bin\Debug\net6.0\HW3.deps.json
+D:\SoftServe\HW\homework\HW3\HW3\bin\Debug\net6.0\HW3.runtimeconfig.json
+D:\SoftServe\HW\homework\HW3\HW3\bin\Debug\net6.0\HW3.dll
+D:\SoftServe\HW\homework\HW3\HW3\bin\Debug\net6.0\HW3.pdb
+D:\SoftServe\HW\homework\HW3\HW3\obj\Debug\net6.0\HW3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftServe\HW\homework\HW3\HW3\obj\Debug\net6.0\HW3.AssemblyInfoInputs.cache
+D:\SoftServe\HW\homework\HW3\HW3\obj\Debug\net6.0\HW3.AssemblyInfo.cs
+D:\SoftServe\HW\homework\HW3\HW3\obj\Debug\net6.0\HW3.csproj.CoreCompileInputs.cache
+D:\SoftServe\HW\homework\HW3\HW3\obj\Debug\net6.0\HW3.dll
+D:\SoftServe\HW\homework\HW3\HW3\obj\Debug\net6.0\refint\HW3.dll
+D:\SoftServe\HW\homework\HW3\HW3\obj\Debug\net6.0\HW3.pdb
+D:\SoftServe\HW\homework\HW3\HW3\obj\Debug\net6.0\HW3.genruntimeconfig.cache
+D:\SoftServe\HW\homework\HW3\HW3\obj\Debug\net6.0\ref\HW3.dll
