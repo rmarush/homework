@@ -1,0 +1,14 @@
+D:\C#\csharp-study\Interface\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\csharp-study\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+D:\C#\csharp-study\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+D:\C#\csharp-study\Interface\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+D:\C#\csharp-study\Interface\Interface\bin\Debug\net6.0\Interface.exe
+D:\C#\csharp-study\Interface\Interface\bin\Debug\net6.0\Interface.deps.json
+D:\C#\csharp-study\Interface\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+D:\C#\csharp-study\Interface\Interface\bin\Debug\net6.0\Interface.dll
+D:\C#\csharp-study\Interface\Interface\bin\Debug\net6.0\Interface.pdb
+D:\C#\csharp-study\Interface\Interface\obj\Debug\net6.0\Interface.dll
+D:\C#\csharp-study\Interface\Interface\obj\Debug\net6.0\refint\Interface.dll
+D:\C#\csharp-study\Interface\Interface\obj\Debug\net6.0\Interface.pdb
+D:\C#\csharp-study\Interface\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+D:\C#\csharp-study\Interface\Interface\obj\Debug\net6.0\ref\Interface.dll
