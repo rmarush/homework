@@ -85,7 +85,7 @@ namespace HW7
                 {
                     foreach(KeyValuePair<string,string> pair in dictionary)
                     {
-                        sw.WriteLine($"{pair.Key} - {pair.Value}");
+                        sw.WriteLine(pair.Key);
                     }
                 }
                 Console.WriteLine("Information was added to file!");
