@@ -1,0 +1,14 @@
+D:\SoftServe\HW\homework\Self-Educated\TryCatchFiles\TryCatchFiles\bin\Debug\net6.0\TryCatchFiles.exe
+D:\SoftServe\HW\homework\Self-Educated\TryCatchFiles\TryCatchFiles\bin\Debug\net6.0\TryCatchFiles.deps.json
+D:\SoftServe\HW\homework\Self-Educated\TryCatchFiles\TryCatchFiles\bin\Debug\net6.0\TryCatchFiles.runtimeconfig.json
+D:\SoftServe\HW\homework\Self-Educated\TryCatchFiles\TryCatchFiles\bin\Debug\net6.0\TryCatchFiles.dll
+D:\SoftServe\HW\homework\Self-Educated\TryCatchFiles\TryCatchFiles\bin\Debug\net6.0\TryCatchFiles.pdb
+D:\SoftServe\HW\homework\Self-Educated\TryCatchFiles\TryCatchFiles\obj\Debug\net6.0\TryCatchFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftServe\HW\homework\Self-Educated\TryCatchFiles\TryCatchFiles\obj\Debug\net6.0\TryCatchFiles.AssemblyInfoInputs.cache
+D:\SoftServe\HW\homework\Self-Educated\TryCatchFiles\TryCatchFiles\obj\Debug\net6.0\TryCatchFiles.AssemblyInfo.cs
+D:\SoftServe\HW\homework\Self-Educated\TryCatchFiles\TryCatchFiles\obj\Debug\net6.0\TryCatchFiles.csproj.CoreCompileInputs.cache
+D:\SoftServe\HW\homework\Self-Educated\TryCatchFiles\TryCatchFiles\obj\Debug\net6.0\TryCatchFiles.dll
+D:\SoftServe\HW\homework\Self-Educated\TryCatchFiles\TryCatchFiles\obj\Debug\net6.0\refint\TryCatchFiles.dll
+D:\SoftServe\HW\homework\Self-Educated\TryCatchFiles\TryCatchFiles\obj\Debug\net6.0\TryCatchFiles.pdb
+D:\SoftServe\HW\homework\Self-Educated\TryCatchFiles\TryCatchFiles\obj\Debug\net6.0\TryCatchFiles.genruntimeconfig.cache
+D:\SoftServe\HW\homework\Self-Educated\TryCatchFiles\TryCatchFiles\obj\Debug\net6.0\ref\TryCatchFiles.dll
