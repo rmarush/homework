@@ -1,0 +1,14 @@
+D:\SoftServe\HW\homework\Task8\Task8\obj\Debug\net6.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftServe\HW\homework\Task8\Task8\obj\Debug\net6.0\Task8.AssemblyInfoInputs.cache
+D:\SoftServe\HW\homework\Task8\Task8\obj\Debug\net6.0\Task8.AssemblyInfo.cs
+D:\SoftServe\HW\homework\Task8\Task8\obj\Debug\net6.0\Task8.csproj.CoreCompileInputs.cache
+D:\SoftServe\HW\homework\Task8\Task8\bin\Debug\net6.0\Task8.exe
+D:\SoftServe\HW\homework\Task8\Task8\bin\Debug\net6.0\Task8.deps.json
+D:\SoftServe\HW\homework\Task8\Task8\bin\Debug\net6.0\Task8.runtimeconfig.json
+D:\SoftServe\HW\homework\Task8\Task8\bin\Debug\net6.0\Task8.dll
+D:\SoftServe\HW\homework\Task8\Task8\bin\Debug\net6.0\Task8.pdb
+D:\SoftServe\HW\homework\Task8\Task8\obj\Debug\net6.0\Task8.dll
+D:\SoftServe\HW\homework\Task8\Task8\obj\Debug\net6.0\refint\Task8.dll
+D:\SoftServe\HW\homework\Task8\Task8\obj\Debug\net6.0\Task8.pdb
+D:\SoftServe\HW\homework\Task8\Task8\obj\Debug\net6.0\Task8.genruntimeconfig.cache
+D:\SoftServe\HW\homework\Task8\Task8\obj\Debug\net6.0\ref\Task8.dll

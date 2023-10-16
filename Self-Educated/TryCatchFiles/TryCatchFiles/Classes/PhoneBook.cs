@@ -17,7 +17,6 @@ namespace TryCatchFiles.Classes
             this.data = new Dictionary<string, string>();
             this.fileHandler = new FileHandler();
         }
-        
         public void CheckPhoneBook()
         {
             foreach (KeyValuePair<string, string> pair in data)
@@ -47,7 +46,6 @@ namespace TryCatchFiles.Classes
             {
                 Console.WriteLine(e.Message);
             }
-
         }
        
         public void DeletePhone()
