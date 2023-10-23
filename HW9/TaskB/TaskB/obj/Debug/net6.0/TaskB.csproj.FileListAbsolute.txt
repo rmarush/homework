@@ -1,0 +1,14 @@
+D:\SoftServe\HW\homework\HW9\TaskB\TaskB\bin\Debug\net6.0\TaskB.exe
+D:\SoftServe\HW\homework\HW9\TaskB\TaskB\bin\Debug\net6.0\TaskB.deps.json
+D:\SoftServe\HW\homework\HW9\TaskB\TaskB\bin\Debug\net6.0\TaskB.runtimeconfig.json
+D:\SoftServe\HW\homework\HW9\TaskB\TaskB\bin\Debug\net6.0\TaskB.dll
+D:\SoftServe\HW\homework\HW9\TaskB\TaskB\bin\Debug\net6.0\TaskB.pdb
+D:\SoftServe\HW\homework\HW9\TaskB\TaskB\obj\Debug\net6.0\TaskB.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftServe\HW\homework\HW9\TaskB\TaskB\obj\Debug\net6.0\TaskB.AssemblyInfoInputs.cache
+D:\SoftServe\HW\homework\HW9\TaskB\TaskB\obj\Debug\net6.0\TaskB.AssemblyInfo.cs
+D:\SoftServe\HW\homework\HW9\TaskB\TaskB\obj\Debug\net6.0\TaskB.csproj.CoreCompileInputs.cache
+D:\SoftServe\HW\homework\HW9\TaskB\TaskB\obj\Debug\net6.0\TaskB.dll
+D:\SoftServe\HW\homework\HW9\TaskB\TaskB\obj\Debug\net6.0\refint\TaskB.dll
+D:\SoftServe\HW\homework\HW9\TaskB\TaskB\obj\Debug\net6.0\TaskB.pdb
+D:\SoftServe\HW\homework\HW9\TaskB\TaskB\obj\Debug\net6.0\TaskB.genruntimeconfig.cache
+D:\SoftServe\HW\homework\HW9\TaskB\TaskB\obj\Debug\net6.0\ref\TaskB.dll
