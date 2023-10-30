@@ -17,8 +17,8 @@ namespace HW10_1.Models
         }
         public double Distance(Point other)
         {
-            double deltaX = x - other.x;
-            double deltaY = y - other.y;
+            double deltaX = other.x - x;  
+            double deltaY = other.y - y;
             return Math.Sqrt(deltaX * deltaX + deltaY * deltaY);
         }
         public override string ToString()

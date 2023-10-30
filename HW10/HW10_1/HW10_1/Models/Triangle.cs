@@ -17,13 +17,16 @@ namespace HW10_1.Models
         }
         public double Distance(Point p1, Point p2)
         {
-            double deltaX = p1.x - p2.x;
-            double deltaY = p1.y - p2.y;
+            double deltaX = p2.x - p1.x;
+            double deltaY = p2.y - p1.y;
             return Math.Sqrt(deltaX * deltaX + deltaY * deltaY);
         }
         public double Perimeter()
         {
-            return Distance(vertex1, vertex2) + Distance(vertex2, vertex3) + Distance(vertex3, vertex1); ;
+                double side1 = Distance(vertex1, vertex2);
+                double side2 = Distance(vertex2, vertex3);
+                double side3 = Distance(vertex3, vertex1);
+                return side1 + side2 + side3;
         }
         public double Area()
         {

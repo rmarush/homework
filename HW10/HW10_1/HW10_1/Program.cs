@@ -2,7 +2,7 @@
 
 namespace HW10_1
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
