@@ -7,7 +7,7 @@ namespace HW10_1.Tests
     public class TriangleTests
     {
         [TestMethod]
-        public void TianglePerimeterTest()
+        public void TianglePerimeter_PointZeroZero_ThreeThree_FourZero_Returned11Point40()
         {
             // Arrange
             var triangle = new Triangle(
@@ -24,7 +24,7 @@ namespace HW10_1.Tests
             Assert.AreEqual(str1, str2);
         }
         [TestMethod]
-        public void TriangleAreaTest()
+        public void TriangleArea_PointZeroZero_FourFive_SixZero_Returned15Point0()
         {
             // Arrange
             var triangle = new Triangle(
