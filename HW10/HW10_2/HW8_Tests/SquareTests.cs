@@ -7,7 +7,7 @@ namespace HW8.Tests
     public class SquareTests
     {
         [TestMethod]
-        public void SquarePerimeter()
+        public void SquarePerimeter_Side5_Returned20()
         {
             // Arrange
             Square square = new Square("Square1", 5);
@@ -18,7 +18,7 @@ namespace HW8.Tests
             Assert.AreEqual(expected, actual);
         }
         [TestMethod]
-        public void SquareArea()
+        public void SquareArea_Side5_Returned25()
         {
             // Arrange
             Square square = new Square("Square1", 5);

@@ -7,7 +7,7 @@ namespace HW8.Tests
     public class CircleTests
     {
         [TestMethod]
-        public void CirclePerimeter()
+        public void CirclePerimeter_Radius4_Returned24Point13()
         {
             // Arrange
             Circle circle = new Circle("Circle1", 4);
@@ -20,7 +20,7 @@ namespace HW8.Tests
             Assert.AreEqual(str1, str2);
         }
         [TestMethod]
-        public void CircleArea()
+        public void CircleArea_Radius4_Returned50Point27()
         {
             // Arrange
             Circle circle = new Circle("Circle1", 4);
